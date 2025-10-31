@@ -19,7 +19,6 @@ A simple **Python GUI password generator** built with Tkinter. Generate strong p
 ## Usage
 
 ```bash
-git clone https://github.com/nimraanis/Python_Password-generator_project.git
 cd mimmi-password-generator
 pip install pyperclip
 python password_generator.py
